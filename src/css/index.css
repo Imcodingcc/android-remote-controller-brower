@@ -1,0 +1,26 @@
+html {
+    background: url(../../resources/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.phone_frame{
+    width: 360px;
+    height: 640px;
+    border: solid 1px;
+    border-radius: 9px;
+}
+
+#vncm{
+    border-radius: 9px;
+}
+
+.input_frame{
+    width: 230px;
+    height: 21px;
+    position: absolute;
+    left: 100px;
+    display: none;
+}
